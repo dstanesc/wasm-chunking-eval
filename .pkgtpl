@@ -1,0 +1,18 @@
+[
+    {
+        "name": "@dstanesc/wasm-chunking-node-eval",
+        "decription": "Wasm library for content-based slicing for NodeJS. Convenience wrapper on existing rolling hash implementations in rust",
+        "homepage": "https://github.com/dstanesc/wasm-chunking-eval",
+        "repository": "https://github.com/dstanesc/wasm-chunking-eval",
+        "license": "MIT, Apache 2.0, BSD-2-Clause-Patent",
+        "author": "Hexagon and contributors"
+    },
+    {
+        "name": "@dstanesc/wasm-chunking-webpack-eval",
+        "decription": "Wasm library for content-based slicing for bundlers such as Webpack. Convenience wrapper on existing rolling hash implementations in rust",
+        "homepage": "https://github.com/dstanesc/wasm-chunking-eval",
+        "repository": "https://github.com/dstanesc/wasm-chunking-eval",
+        "license": "MIT, Apache 2.0, BSD-2-Clause-Patent",
+        "author": "Hexagon and contributors"
+    }
+]
